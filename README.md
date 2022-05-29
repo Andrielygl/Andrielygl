@@ -1,8 +1,16 @@
-- # Sobre mim
+ # Sobre mim
 - 👋 Oi, Eu sou **@Andrielygl**
 - :speech_balloon: Meu e-mail é andriely.gloria@escola.pr.gov.br
-- 👀 Eu estou interessado em aprender a programar
-- 🌱 Rescentemente estou aprendendo a progamar no Scratch
+- :cloud: Eu estou interessada em aprender a programar
+-  :space_invader: Recentemente estou aprendendo a progamar no 
+
+
+
+
+    ![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+
+
+
 
 <!---
 Andrielygl/Andrielygl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
